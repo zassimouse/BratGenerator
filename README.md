@@ -1,7 +1,7 @@
 
 # Brat Generator 😃🥰☹️🤭🤥
 
-![brat_github](https://github.com/user-attachments/assets/11a561e9-22a5-41cd-905d-53cabebe3acf)
+![brat](https://github.com/user-attachments/assets/7f7a6168-d97c-41ee-a2cd-19a63c63049e)
 
 
 **Brat Generator** is a trendy, playful meme generator inspired by the bold, rebellious aesthetic of Charlie XCX's _Brat_ album. Designed for iOS 17 and built using SwiftUI, it lets users create vibrant, meme-worthy graphics that embody the carefree, cheeky energy of "Brat Summer." With its focus on bold visuals and maximalist charm, the app taps into the _Brat_ style's cultural relevance, combining bright colors, youthful rebellion, and modern meme culture. Whether you're a fan of the aesthetic or just want to create standout content, Brat Generator makes self-expression bold and fun.
